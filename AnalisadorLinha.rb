@@ -23,10 +23,10 @@ class AnalisadorLinha #vai armazenar em seus atributos de instância o número d
             return "\nNa linha #{numero} a palavra" + "=> #{palavra} <=" + "aparece #{frequencia} vez(es)" 
       end
     end
-end
-  
   end
+ end
 
 #Algumas referências:
+#https://www.rubyguides.com/2018/09/ruby-conversion-methods/
 #https://medium.com/collabcode/diferen%C3%A7a-entre-map-collect-select-e-each-no-ruby-4d8dc853711f
 #https://cursos.alura.com.br/forum/topico-conceito-de-each_with_index-78144
